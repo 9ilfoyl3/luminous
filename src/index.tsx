@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+<<<<<<< HEAD
 import './styles/index.scss';
+=======
+import './index.css';
+>>>>>>> 6376501 (1. merge branches)
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
