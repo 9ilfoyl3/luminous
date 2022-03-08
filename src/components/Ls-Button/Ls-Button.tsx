@@ -26,7 +26,7 @@ const LsButton: React.FC<ButtonProps> = (props) => {
     href,
     children,
     ...restProps
-  } = props 
+  } = props
 
   const classes = classNames('btn', className, {
     [`btn-${btnType}`]: btnType,
