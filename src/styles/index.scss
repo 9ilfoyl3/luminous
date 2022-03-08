@@ -1,5 +1,11 @@
 // config
 @import 'variables';
 
-//layout
+// mixin
+@import 'mixin';
+
+// layout
 @import "reboot";
+
+// Button
+@import "../components/Ls-Button/style"
